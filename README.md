@@ -1,2 +1,2 @@
 # Github-Demo
-Different tasks by using Git and Github
+Different tasks by using Git and Github.
